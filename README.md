@@ -71,6 +71,11 @@ This project is designed for educational purposes to understand time series fore
 
 ---
 
+## ⚠️ Disclaimer: 
+This project is for educational purposes only. Errors may exist. Please report issues or contribute improvements via pull requests.
+
+---
+
 ## License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
