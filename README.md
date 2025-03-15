@@ -71,7 +71,7 @@ This project is designed for educational purposes to understand time series fore
 
 ---
 
-## ⚠️ Disclaimer: 
+## ⚠️ Disclaimer
 This project is for educational purposes only. Errors may exist. Please report issues or contribute improvements via pull requests.
 
 ---
